@@ -1,6 +1,6 @@
-# tianhongceshi
+# tianhong
 
-测试域名：
+预发布环境：
 https://www.tianhong.cn
 后台用户数据:http://192.168.197.63:9000/
 username:root
