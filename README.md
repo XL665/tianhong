@@ -1,13 +1,6 @@
 # tianhong
 
-预发布环境：
-https://www.tianhong.cn
-后台用户数据:http://192.168.197.62:9000/
-username:root
-password:root@123&^%$
-数据库mysql
-username:root
-password:tianhong@root#@$%
+
 
 拉起调试：
 import os
