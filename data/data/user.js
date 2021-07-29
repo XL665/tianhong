@@ -1,9 +1,5 @@
 https://www.tianhong.cn    
-后台用户数据:http://192.168.197.62:9000/ 
-username:root 
-password:root@123&^%$ 
-据库mysql username:root 
-password:tianhong@root#@$%
+
 
 onst data = {
   "sku": [
